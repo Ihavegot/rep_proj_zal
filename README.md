@@ -1,1 +1,1 @@
-Simple chat written in Java
+# Simple chat written in Java
